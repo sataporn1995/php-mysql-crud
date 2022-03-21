@@ -1,5 +1,5 @@
-CREATE DATABASE company;
-USE company;
+CREATE DATABASE tutorials;
+USE tutorials;
 
 
 CREATE TABLE employees
